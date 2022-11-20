@@ -36,6 +36,7 @@
     "alternate": true,
     "y": 37,
     "x": 17,
+    "shoot": {			
     "type": "shootPattern",
     "shots": 3,
     "shotDelay": 5,
