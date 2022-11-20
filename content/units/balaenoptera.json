@@ -94,6 +94,7 @@
     "top": true,
     "y": 18,
     "x": 26,
+    "shoot": {
     "type": "shootPattern",
     "shots": 3,
     "shotDelay": 5,
@@ -195,6 +196,7 @@
     "rotate": true,
     "recoil": 7.5,
     "shootY": 26,
+    "shoot": {
     "type": "shootPattern",
     "shots": 3,
     "shotDelay": 5,
